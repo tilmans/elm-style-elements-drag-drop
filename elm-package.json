@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "summary": "This library handles drag and drop of style elements using the HTML5 API",
-  "repository": "git@github.com:tilmans/elm-style-elements-drag-drop.git",
+  "repository": "https://github.com/tilmans/elm-style-elements-drag-drop.git",
   "license": "BSD3",
   "source-directories": ["src"],
   "exposed-modules": ["Html5.DragDrop"],
